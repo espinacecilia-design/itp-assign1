@@ -1,6 +1,6 @@
 ---
 title: "ITP-Shopify Store - Assignment 1 - Shopify Orientation and Admin Exploration"
-author: "Your Name"
+author: "Cecilia Espina"
 date: today
 format: 
   html: 
@@ -33,9 +33,8 @@ I completed the following Shopify Academy modules and the Admin Guided Tour:
 - Developing on Shopify (60 min)
 - Shopify Admin Guided Tour
 
-::: callout-note
+::: {.callout-note}
 ## Completion Evidence
-
 The table below, exported from my Shopify Academy account, confirms all four required modules were enrolled in and completed on the same day.
 
 ![Shopify Academy Completion Record](images/completion-screenshot.png)
@@ -45,9 +44,8 @@ The table below, exported from my Shopify Academy account, confirms all four req
 
 After completing the learning materials, I logged into a Shopify practice account and explored the admin dashboard.
 
-::: callout-tip
+::: {.callout-tip}
 ## Admin Screenshot
-
 The screenshot below shows the Shopify admin dashboard for my development store, including the left-hand navigation with Home, Orders, Products, Customers, Growth, Discounts, Content, Markets, Finance, and Analytics.
 
 ![Shopify Admin Dashboard](images/admin-screenshot.png)
@@ -57,7 +55,8 @@ The screenshot below shows the Shopify admin dashboard for my development store,
 
 Below are five Shopify features that are important for online retailing, organized in a tabbed panel for easier reading.
 
-::: panel-tabset
+::: {.panel-tabset}
+
 ## Products
 
 The Products section is where store owners add, organize, and manage everything they sell — including titles, descriptions, images, variants (size, color, etc.), pricing, and inventory counts. It's the foundation of the entire store, since every other feature (collections, orders, marketing) connects back to product data.
@@ -77,6 +76,7 @@ The Customers section stores contact information, order history, and purchase be
 ## Analytics
 
 Shopify's built-in Analytics (and its integration with tools like Google Analytics 4) gives store owners visibility into traffic, conversion rates, and sales trends. This is critical for making informed decisions about marketing spend, inventory, and which products to promote.
+
 :::
 
 [^1]: Automated collections update themselves automatically as new products matching the rule are added, reducing manual upkeep.
@@ -89,12 +89,5 @@ Shopify could meaningfully support CPP Farm Store by giving it a low-cost, easy-
 
 ## Appendix {.appendix}
 
-- **GitHub Repository:** [Insert clickable URL here](#)
-- **GitHub Pages (Published Site):** [Insert clickable URL here](#)
-
-::: callout-important
-## Reminder
-
-Replace the placeholder links above with your actual GitHub repo and GitHub Pages URLs before submitting.
-:::
-Add Assignment 1 files
+- **GitHub Repository:** [https://github.com/espinacecilia-design/itp-assign1](https://github.com/espinacecilia-design/itp-assign1)
+- **GitHub Pages (Published Site):** [https://espinacecilia-design.github.io/itp-assign1/](https://espinacecilia-design.github.io/itp-assign1/)
